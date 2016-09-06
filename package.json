@@ -30,7 +30,7 @@
         },
         "peerDependencies": {
             "react-native-sqlite": "https://github.com/subtirelumihail/react-native-sqlite.git",
-            "react-native-fs": "1.0.0",
-            "react-timer-mixin": "0.13.3"
+            "react-native-fs": "^1.0.0",
+            "react-timer-mixin": "^0.13.3"
         }
 }
